@@ -1,6 +1,8 @@
 # Auction-SmartContract
 
-This contract is for Selection of auction winner.
+When aution/sales happens , items are set with minimum reserve price and opened for buyers to bid on it. whoever bids higher will win the Auction of thet item.
+
+In this contract, Mannager can keep more than one item for sales with minimun reserve price and buyers can bid on any item/items . Contract have the logic of winner Selection of each item on sales.
 
 Step1: Contract manager deploy the contract.
 
